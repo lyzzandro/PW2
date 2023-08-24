@@ -42,10 +42,7 @@ function App() {
                 </div>
                 <div className="message">
                     <img src={profile2} alt="profile2" />
-                    <p>
-                        Boris estou no local já lhe esperando. estou com camisa
-                        azul e calça jeans
-                    </p>
+                    <p>Acabei de lhe ver. Vou estacionar o carro próximo.</p>
                     <img src={trash} alt="trash" />
                 </div>
             </div>
